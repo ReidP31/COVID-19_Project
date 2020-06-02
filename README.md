@@ -1,5 +1,5 @@
 # Wake Co., NC COVID-19_Project
-An exploration of the data of the Coronavirus Pandemic that began in 2019
+An exploration of the data of the Coronavirus Pandemic for Wake County, NC
 </br>
 ### Project Outline
 * Start with exploration and plots
